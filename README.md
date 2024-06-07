@@ -1,12 +1,13 @@
-# CIS250_Create02_Data Retrieval
-For this assignment you will be writing a series of queries for a library, videog game store, and car dealership. These scripts will test your ability to retrieve, filter, and sort data from a databse table. Your scripts must return the expected result as it is described. Getting the details right is the most important part of writing SQL scripts.
+# CIS250_Create02_Table Relationships
+For this assignment you will be using a jupyter notebook to learn, practice, and create queries that deal with pulling data from multiple tables. You will be using the Guitar Store database tables for these queries. There is a set of exercises and a scenario at the end of the starter file that will be graded. The rest of the jupyter notebook file is for you to practice and prepare for the graded exercises.
 
 ## Before Starting
-1. Ensure that you have completed the practice assignment succesfully
+1. Ensure that you have completed the practice assignment succesfully.
+2. Complete the Practice Jupyter Notebook assignment.
 
 ## Assignment Description
-* There are a total of seven scripts that you will be writing for this assignment
-* A written business need is defined in the create file for you to base your script off of
+* There are a total of four exercises and one scenario that you will complete.
+* Each exercise/scenario is expressed as a business need that you must write a query to satisfy.
 
 
 ## Assignment Requirements
@@ -15,6 +16,6 @@ For this assignment you will be writing a series of queries for a library, video
 * You must use best practices in your scripts. Proper casing, spacing, and formatting are required.
 
 ## Tips
-* The ExampleOutput.md gives the first few rows of each expected result. Edit your query until you have an exact match.
-* Remember your order of operations for both symbols like parenthesis and logical operators like and/or/not
-* If you get stuck, make a post in the Homework Help channel in Teams
+* The first few rows of the expected output are embedded in the notebook so that you can check your solution.
+* Remember your order of operations for both symbols like parenthesis and logical operators like and/or/not.
+* If you get stuck, make a post in the Homework Help channel in Teams.
