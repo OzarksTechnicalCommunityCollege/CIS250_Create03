@@ -1,4 +1,4 @@
-# CIS250_Create02_Table Relationships
+# CIS250_Create03_Table Relationships
 For this assignment you will be using a jupyter notebook to learn, practice, and create queries that deal with pulling data from multiple tables. You will be using the Guitar Store database tables for these queries. There is a set of exercises and a scenario at the end of the starter file that will be graded. The rest of the jupyter notebook file is for you to practice and prepare for the graded exercises.
 
 ## Before Starting
